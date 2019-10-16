@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# TrojanCS: TVS Computer Science
+
+<center><img width="400" src="/assets/images/top.png"></center>
