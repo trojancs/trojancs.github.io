@@ -7,7 +7,7 @@ permalink: /
 ---
 <center>
 <figure>
- <img src="/assets/images/top.png" alt="Color Wheel" />
+ <img width="400" src="/assets/images/top.png" alt="Color Wheel" />
  <figcaption>
  <i>Color Wheel</i>
  </figcaption>
