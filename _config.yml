@@ -25,7 +25,7 @@ github_username:  trojancs
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: rlstevenson-jekyll-theme
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
